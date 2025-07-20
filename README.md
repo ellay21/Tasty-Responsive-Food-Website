@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Responsive-Food-Website
  Responsive website design with Javascript-HTML-CSS
  
@@ -41,4 +40,3 @@ This is a responsive food ordering website featuring:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ellay21/Tasty-Responsive-Food-Website.git
->>>>>>> master
