@@ -16,7 +16,7 @@ A modern, mobile-friendly restaurant website built with vanilla HTML, CSS, and J
 |--------------|-------------|
 | ![Desktop Screenshot](https://user-images.githubusercontent.com/72731296/172683630-9d8ef208-e2b8-43bf-a872-63414c07df48.png) | ![Desktop Screenshot](https://user-images.githubusercontent.com/72731296/172683638-6c71b1c9-7767-45c6-b112-7b75ed9e886e.png) | ![Mobile Screenshot] (![alt text](image.png)) (![alt text](image-1.png)) (![alt text](image-2.png))
 
-## 🚀 About This Project
+## 🚀  About This Project
 
 This is a responsive food ordering website featuring:
 
